@@ -60,7 +60,7 @@ databases, and web technologies.
 
 I focus on writing maintainable code, understanding how different parts of a
 system work together, and continuously improving my technical skills through
-academic and personal projects.
+academic and some personal projects.
 
 </details>
 
@@ -70,6 +70,6 @@ academic and personal projects.
 
 ### Open to internships and entry-level opportunities
 
-[LinkedIn](YOUR_LINKEDIN_URL) • [Email](mailto:YOUR_EMAIL)
+[LinkedIn](linkedin.com/in/daniel-roi-contillo-9a836128b) • [Email](mailto:danielcayabyab07@gmail.com)
 
 </div>
