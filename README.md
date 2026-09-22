@@ -96,7 +96,7 @@ I enjoy working on practical software projects that combine backend development,
  
 ### 📊 Top Languages by Repo
  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitDanielR07&layout=donut&theme=dark&hide_border=true&bg_color=00000000)
+![Top Languages](https://git-daniel-r07-85r4.vercel.app/api/top-langs/?username=GitDanielR07&layout=donut&theme=dark&hide_border=true&bg_color=00000000)
  
 </div>
 
