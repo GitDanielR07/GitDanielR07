@@ -93,9 +93,17 @@ I enjoy working on practical software projects that combine backend development,
 ---
 
 <div align="center">
+### 📊 Top Languages by Repo
+ 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitDanielR07&layout=donut&theme=dark&hide_border=true&bg_color=00000000" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
 
 ### 📬 Open to internships and entry-level opportunities
 
-[LinkedIn](https://www.linkedin.com/in/daniel-roi-contillo-9a836128b) • [danielcayabyab07@gmail.com](mailto:danielcayabyab07@gmail.com) • [GitHub](https://github.com/GitDanielR07)
+[LinkedIn](https://www.linkedin.com/in/daniel-roi-contillo-9a836128b) • [danielcayabyab07@gmail.com](mailto:danielcayabyab07@gmail.com)
 
 </div>
