@@ -6,9 +6,9 @@
 
 **Saint Louis University • Philippines**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-roi-contillo-9a836128b)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:danielcayabyab07@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-GitDanielR07-181717?style=flat&logo=github&logoColor=white)](https://github.com/GitDanielR07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-roi-contillo-9a836128b)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielcayabyab07@gmail.com)
+[![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-8A2BE2?style=for-the-badge)](#)
 
 </div>
 
