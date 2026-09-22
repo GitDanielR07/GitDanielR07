@@ -70,6 +70,6 @@ academic and some personal projects.
 
 ### Open to internships and entry-level opportunities
 
-[LinkedIn](linkedin.com/in/daniel-roi-contillo-9a836128b) • [Email](mailto:danielcayabyab07@gmail.com)
+[LinkedIn](linkedin.com/in/daniel-roi-contillo-9a836128b) • danielcayabyab07@gmail.com
 
 </div>
